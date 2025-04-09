@@ -1,0 +1,74 @@
+Scanning directories for the count of INFs to import.
+Performing the operation "import" on target "Out-of-box drivers".
+Creating new item named Intel Net e1r68x64.inf 12.18.13.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net i40ea68.inf 1.16.202.5 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net icea68.inf 1.12.148.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net ixs68x64.inf 4.1.246.2 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net e1r.inf 13.0.14.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net i40ea.inf 1.17.84.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net icea.inf 1.12.148.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net ixs.inf 4.1.248.0 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt640x64.inf 10.060.0615.2022 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt640x64.inf 10.060.0615.2022 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt640x64.inf 10.057.0330.2022 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt640x64.inf 10.057.0330.2022 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt640x64.inf 10.038.1118.2019 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt640x64.inf 10.038.1118.2019 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net e2f.inf 1.1.3.34 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtu52cx22x64.INF 1152.15.0327.2024 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu52cx22x64.INF 1152.15.0327.2024 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtu53cx22x64.INF 1153.15.0327.2024 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu53cx22x64.INF 1153.15.0327.2024 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtu55cx22x64.INF 1155.15.0327.2024 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu55cx22x64.INF 1155.15.0327.2024 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtu56cx22x64.INF 1156.15.0327.2024 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu56cx22x64.INF 1156.15.0327.2024 at DS001:\Out-of-Box Drivers.
+Not adding Intel Net e1r68x64.inf 12.18.13.0 to folder DS001:\Out-of-Box Drivers because it is already in the folder.
+Not adding Intel Net i40ea68.inf 1.16.202.5 to folder DS001:\Out-of-Box Drivers because it is already in the folder.
+Not adding Intel Net ixs68x64.inf 4.1.246.2 to folder DS001:\Out-of-Box Drivers because it is already in the folder.
+Creating new item named Intel Net e1r.inf 13.0.14.0 (1) at DS001:\Out-of-Box Drivers.
+Not adding Intel Net i40ea.inf 1.17.84.0 to folder DS001:\Out-of-Box Drivers because it is already in the folder.
+Not adding Intel Net ixs.inf 4.1.248.0 to folder DS001:\Out-of-Box Drivers because it is already in the folder.
+Creating new item named Intel Net e1d.inf 12.19.2.61 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net e1dn.inf 20.0.2.19 at DS001:\Out-of-Box Drivers.
+Creating new item named Marvell Net aqnic650.inf 3.1.7.0 at DS001:\Out-of-Box Drivers.
+Creating new item named Aquantia Net aqnic650.inf 2.1.021.0 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt640x64.inf 10.037.1028.2019 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt640x64.inf 10.037.1028.2019 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt25cx21x64.inf 1125.013.0424.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt25cx21x64.inf 1125.013.0424.2023 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt25dcx21x64.inf 1124.013.0424.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt25dcx21x64.inf 1124.013.0424.2023 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt26cx21x64.inf 1126.013.0424.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt26cx21x64.inf 1126.013.0424.2023 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt68cx21x64.inf 1168.013.0424.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt68cx21x64.inf 1168.013.0424.2023 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt68dcx21x64.inf 1166.013.0424.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt68dcx21x64.inf 1166.013.0424.2023 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtots640x64.inf 10.065.0421.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtots640x64.inf 10.065.0421.2023 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Net e1d.inf 12.19.2.45 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rtump64x64.INF 10.48.0914.2021 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtump64x64.INF 10.48.0914.2021 at DS001:\Out-of-Box Drivers.
+Warning: Driver Realtek Net rt640x64.inf 10.056.0119.2022 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rt640x64.inf 10.056.0119.2022 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation System iaNullVMD.inf 8.0.0.4028 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorB.inf 8.0.4.1006 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorE.inf 8.0.4.1006 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorT.inf 8.0.4.1006 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaVROC.inf 8.0.4.1006 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation HDC iaAHCIC.inf 17.11.0.1000 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorAC.inf 17.11.0.1000 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation HDC iaAHCIC.inf 18.37.1.1003 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorAC.inf 18.37.1.1003 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorVD.inf 19.5.1.1040 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SoftwareComponent iaStorHsaComponent.inf 20.0.0.1037 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation Extension iaStorHsa_Ext.inf 20.0.0.1037 at DS001:\Out-of-Box Drivers.
+Creating new item named Intel Corporation SCSIAdapter iaStorVD.inf 20.0.0.1037 at DS001:\Out-of-Box Drivers.
+Warning: Driver AVAGO TECH. SCSIAdapter MegaSas35.inf 7.723.02.00 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named AVAGO TECH. SCSIAdapter MegaSas35.inf 7.723.02.00 at DS001:\Out-of-Box Drivers.
+Creating new item named LSI Corp. System nodev.inf 7.723.02.00 at DS001:\Out-of-Box Drivers.
+Warning: Driver Broadcom Limited SCSIAdapter mpi3drv.inf 8.08.07.00 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Broadcom Limited SCSIAdapter mpi3drv.inf 8.08.07.00 at DS001:\Out-of-Box Drivers.
+Creating new item named Broadcom Limited System mpi3nodrv.inf 8.08.07.00 at DS001:\Out-of-Box Drivers.
+Import processing finished.
